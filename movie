@@ -1,0 +1,207 @@
+#### gnu.wave ####
+
+set grid
+set yrange [-3:3]
+set xrange [-3:3]
+ p "./fort.10" u 1:2:4:5 w vec notitle
+
+p "./fort.101" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.102" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.103" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.104" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.105" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.106" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.107" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.108" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.109" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.110" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.111" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.112" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.113" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.114" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.115" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.116" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.117" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.118" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.119" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.120" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.121" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.122" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.123" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.124" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.125" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.126" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.127" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.128" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.129" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.130" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.131" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.132" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.133" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.134" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.135" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.136" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.137" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.138" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.139" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.140" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.141" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.142" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.143" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.144" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.145" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.146" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.147" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.148" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.149" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.150" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.151" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.152" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.153" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.154" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.155" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.156" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.157" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.158" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.159" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.160" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.161" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.162" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.163" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.164" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.165" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.166" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.167" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.168" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.169" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.170" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.171" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.172" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.173" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.174" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.175" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.176" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.177" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.178" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.179" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.180" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.181" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.182" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.183" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.184" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.185" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.186" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.187" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.188" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.189" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.190" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.191" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.192" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.193" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.194" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.195" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.196" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.197" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.198" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.199" u 1:2:4:5 w vec notitle
+pause 0.05
+p "./fort.200" u 1:2:4:5 w vec notitle
+pause 0.05
